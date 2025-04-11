@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pradhyumn Singh Ginnare</h1>  
-<h3 align="center">A passionate flutter developer from India</h3>  
+<h3 align="center">I'm a Flutter developer passionate about building scalable, cross-platform apps with clean UI and real-time features.</h3>  
 
 <br />
 
